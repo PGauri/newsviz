@@ -1,0 +1,2 @@
+# newsviz
+Creating a website 
